@@ -106,7 +106,7 @@ This ensures that the application continues running even when a DNS record is un
 
 ## Example
 
-![Program Output](images/teste.jpg)
+![Program Output](imagens/teste.jpg)
 
 ---
 

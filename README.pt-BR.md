@@ -106,7 +106,7 @@ Dessa forma, mesmo que um registro não exista, a execução continua normalment
 
 ## Exemplo
 
-![Saída do Programa](images/teste.jpg)
+![Saída do Programa](imagens/teste.jpg)
 
 ---
 
